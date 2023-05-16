@@ -1,4 +1,4 @@
-//Jack Sheehy C22468732
+//Jack Sheehy C2246873
 // Ticketing Service Assignment - Semsester 2
 public class event {
 
